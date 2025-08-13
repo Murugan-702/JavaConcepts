@@ -1,0 +1,83 @@
+Java Beginner Guide
+
+1. Java Basics
+•	Terminologies – Understanding key terms like programming Languages
+•	Hello World Program – Writing and running your first Java program.
+•	JDK, JRE, JVM and Behind the Scenes – How Java works internally.
+•	Oracle Coding Style – Best practices for naming and formatting code.
+•	Comments – Single-line (//) and multi-line (/* ... */) comments.
+
+2. Variables, Data Types & Operators
+
+•	Variables – Declaring and initializing variables.
+•	DataTypes – Primitive and reference types.
+•	Numbers: int, long, float, double
+•	Character: char
+•	Boolean: boolean
+•	String – Immutable sequences of characters.
+•	Binary Number – Representing binary literals.
+•	Primitive and Reference Data Types – Differences and usage.
+•	Final Variables – Constants in Java.
+•	Type Casting – Widening vs narrowing conversions.
+•	Arithmetic Operators – +, -, *, /, %.
+•	Relational Operators – <, >, <=, >=, ==, !=.
+•	Logical Operators – &&, ||, !.
+•	Boolean Expressions – True/false evaluation.
+•	Ternary Operator – condition ? value1 : value2.
+•	Comparison of == and equals() – Reference vs value equality.
+
+3. Control Flow
+
+•	Conditional Statements – if, if-else, if-else-if.
+•	Switch Statements – Multi-branch selection.
+•	Looping Statements – for, enhanced for (for-each).
+•	while and do-while loops.
+•	Break and Continue Statements – Controlling loop flow.
+
+4. Methods
+
+•	Methods – Defining reusable code blocks.
+•	Main Method – Entry point of a Java application.
+•	Calling Methods – Invoking methods with arguments.
+•	VarArgs – Variable length arguments.
+•	Method Overloading – Same method name, different parameter list.
+•	Static Methods – Class-level methods.
+•	Instance Methods – Instance Level Methods
+
+5. Arrays & Collections Basics
+
+•	Arrays – One-dimensional arrays.
+•	Multidimensional Arrays – 2D and higher arrays.
+•	Array Exceptions – ArrayIndexOutOfBoundsException.
+•	String and Character Arrays – Conversions between String, char[], and String[].
+
+6. Object-Oriented Programming
+
+•	Introduction to OOP – Classes, objects, and principles.
+•	Package – Organizing classes.
+•	Constructors – Initializing objects.
+•	Constructor Overloading – Multiple constructors in a class.
+•	this Keyword – Referring to the current object.
+•	Access Modifiers – public, private, protected, default.
+•	Encapsulation – Hiding data using getters and setters.
+•	Inheritance – Extending classes.
+•	Protected Modifier – Access in subclasses and same package.
+•	super Keyword – Accessing superclass members.
+•	Objects of Subclass – Using child class instances.
+•	Method Overriding – Redefining methods in subclasses.
+•	Polymorphism – Runtime and compile-time behavior.
+•	Abstraction – Abstract classes and interfaces.
+•	Annotation – Metadata in Java.
+•	Enums – Enum types for fixed constants.
+•	Objects and their Properties – State and behavior.
+
+7. Exception Handling
+
+•	Errors and Exceptions – Difference between compile-time and runtime errors.
+•	Hierarchy of Exceptions – Checked, unchecked, and errors.
+•	NullPointerException – Common causes and fixes.
+
+8. Strings & Formatting
+
+•	StringBuilder – Mutable string operations.
+•	Formatted Outputs – System.out.printf(), String.format().
