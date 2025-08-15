@@ -1,14 +1,13 @@
-Java Beginner Guide
+Java Beginner Part 1
 
-1. Java Basics
+Java Basics
 •	Terminologies – Understanding key terms like programming Languages
 •	Hello World Program – Writing and running your first Java program.
 •	JDK, JRE, JVM and Behind the Scenes – How Java works internally.
 •	Oracle Coding Style – Best practices for naming and formatting code.
 •	Comments – Single-line (//) and multi-line (/* ... */) comments.
 
-2. Variables, Data Types & Operators
-
+Variables, Data Types & Operators
 •	Variables – Declaring and initializing variables.
 •	DataTypes – Primitive and reference types.
 •	Numbers: int, long, float, double
@@ -26,16 +25,15 @@ Java Beginner Guide
 •	Ternary Operator – condition ? value1 : value2.
 •	Comparison of == and equals() – Reference vs value equality.
 
-3. Control Flow
-
+Control Flow Statements
 •	Conditional Statements – if, if-else, if-else-if.
 •	Switch Statements – Multi-branch selection.
+•	Switch Expressions – Modern switch syntax.
 •	Looping Statements – for, enhanced for (for-each).
 •	while and do-while loops.
 •	Break and Continue Statements – Controlling loop flow.
 
-4. Methods
-
+Methods
 •	Methods – Defining reusable code blocks.
 •	Main Method – Entry point of a Java application.
 •	Calling Methods – Invoking methods with arguments.
@@ -44,15 +42,15 @@ Java Beginner Guide
 •	Static Methods – Class-level methods.
 •	Instance Methods – Instance Level Methods
 
-5. Arrays & Collections Basics
-
+Arrays & Collections Basics
 •	Arrays – One-dimensional arrays.
+•	Fixed Size Arrays
+•	Dynamic Arrays
 •	Multidimensional Arrays – 2D and higher arrays.
 •	Array Exceptions – ArrayIndexOutOfBoundsException.
 •	String and Character Arrays – Conversions between String, char[], and String[].
 
-6. Object-Oriented Programming
-
+Object-Oriented Programming
 •	Introduction to OOP – Classes, objects, and principles.
 •	Package – Organizing classes.
 •	Constructors – Initializing objects.
@@ -64,20 +62,54 @@ Java Beginner Guide
 •	Protected Modifier – Access in subclasses and same package.
 •	super Keyword – Accessing superclass members.
 •	Objects of Subclass – Using child class instances.
+•	Objects and their Properties – State and behavior.
+•	Static Methods
 •	Method Overriding – Redefining methods in subclasses.
 •	Polymorphism – Runtime and compile-time behavior.
 •	Abstraction – Abstract classes and interfaces.
 •	Annotation – Metadata in Java.
+•	Custom Annotation
+•	Default Methods
+•	Detecting Annotations
 •	Enums – Enum types for fixed constants.
-•	Objects and their Properties – State and behavior.
+•	Shallow Copy and Deep Copy
+•	Reflection
+•	Dealing with Modifiers
 
-7. Exception Handling
-
+Exception Handling
 •	Errors and Exceptions – Difference between compile-time and runtime errors.
 •	Hierarchy of Exceptions – Checked, unchecked, and errors.
 •	NullPointerException – Common causes and fixes.
-
-8. Strings & Formatting
-
+•	Array Exceptions
+Strings & Formatting
 •	StringBuilder – Mutable string operations.
 •	Formatted Outputs – System.out.printf(), String.format().
+
+Collections & Date-Time API
+•	Collections Interface
+•	List Interface
+•	Queue Interface
+•	ArrayList
+•	Deque
+•	Set Interface
+•	Map Interface
+•	Heap 
+•	LocalTime
+•	LocalDate
+•	LocalDateTime
+•	Comparing Dates and Times
+•	Interfaces
+•	BigDecimal
+•	BigInteger
+•	Random Class
+Algorithms and Computation
+•	Searching Algorithms
+•	Sorting Algorithms
+•	Insertion Sort
+•	Selection Sort
+•	Merge Sort
+•	Divide and Conquer
+•	Sequential Search
+•	Binary Search
+•	Binary Arithmetic
+•	Modulo Division
