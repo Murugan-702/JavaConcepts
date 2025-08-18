@@ -1,0 +1,47 @@
+                         Java Basics Part 2
+
+Day 1:
+        Terminologies of OOps 
+        Class and Objects 
+        Methods 
+        
+
+Day 2:
+       Constructors 
+       Default Constructors and Parametrized Constructors
+       Packages 
+       Access Modifier 
+       Static and Instance Methods and Fields
+
+Day 3:
+        Encapsulation
+        Getters and Setters 
+        Polymorphism
+        Method and Constructor Overloading 
+        Method Overriding
+
+Day 4:
+       Abstraction 
+       Interface 
+       Abstract Classes
+       Final KeyWord
+
+Day 5:
+        Inheritance 
+        Constructors in Inheritance
+        Objects of Subclass 
+        DeepCopying and ShallowCopying 
+        Constructor Chaining
+        UpCasting and DownCasting
+
+
+Day 6:
+       Object Class 
+       Mutable Strings 
+       Enums 
+       MultiDimensional Arrays
+       LocalTime , LocalDate , LocalDateTime
+
+
+
+        
