@@ -1,0 +1,49 @@
+                         Java Basics Part 1
+
+Day 1:
+       Java Basics and Terminologies
+       JRE , JDK , JVM 
+
+Day 2:
+        Hello World Program
+        Variables and Naming Conventions
+        Comments
+        Oracle Coding Style
+        Reading User Input 
+
+Day 3:
+        Numbers : Integer and Long Floating Point Numbers
+        Arithemetic Operators and its Expressions
+        Boolean Data Type
+        Logical Operator and its Expressions
+        Relational Operator 
+        Primitive and Reference Data Type 
+        Size of Data Type
+
+Day 4:
+        Conditional Statements
+        Looping Statements
+        Switch Statements and Switch Expressions
+        Break and Continue 
+        Methods and Naming Conventions
+        main Method 
+
+Day 5:
+         Arrays - > Fixed Size and Dynamic Array
+         Character
+         String 
+         Formatting Outputs 
+         String and Arrays Conversion
+         Variable Length Arguments
+
+Day 6:
+        Errors and Exceptions
+        Heirarchy of Errors and Exception 
+        Try , Catch , Finally 
+        ArithemeticException, NumberFormatException
+        IndexOutOfBoundsException, NegativeArrayException
+        NullPointerException
+        Bugs 
+
+
+        
